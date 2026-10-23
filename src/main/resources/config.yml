@@ -1,0 +1,14 @@
+min-players: 3
+max-players: 8
+hand-size: 10
+winning-score: 5
+submission-seconds: 120
+judge-seconds: 90
+reconnect-seconds: 120
+result-seconds: 8
+packs: [minecraft]
+# The clicked block is used as-is. No survival block is replaced.
+table: {}
+# Optional decoration only. Menus and public chat work without display entities.
+board-display: false
+board-radius: 16

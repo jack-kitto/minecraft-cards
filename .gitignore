@@ -1,0 +1,14 @@
+/target/
+/local/
+/server/
+/data/
+/world*/
+/plugins/
+/backups/
+.env
+.env.*
+*.pem
+*.key
+*.log
+*.jar
+.DS_Store

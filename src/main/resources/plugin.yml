@@ -1,0 +1,20 @@
+name: MinecraftCards
+version: 0.1.0
+main: io.github.jackkitto.cards.CardsPlugin
+api-version: '26.3'
+description: One shared card table with private Java menus and Bedrock forms.
+softdepend: [floodgate]
+commands:
+  cards:
+    description: Open the card table or manage a match.
+    usage: /cards
+    permission: cards.play
+permissions:
+  cards.play:
+    default: true
+  cards.host:
+    description: Create a lobby and control it while you are its host.
+    default: true
+  cards.admin:
+    description: Place the table, reload packs, or take over host controls.
+    default: op
