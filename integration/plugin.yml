@@ -1,0 +1,6 @@
+name: CardsMenuProbe
+version: 0.1.0
+main: io.github.jackkitto.cards.probe.MenuProbe
+api-version: '26.3'
+depend: [MinecraftCards]
+description: Disposable-server test fixture. Never install on a live server.
