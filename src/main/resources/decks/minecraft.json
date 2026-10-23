@@ -1,0 +1,636 @@
+{
+  "prompts": [
+    {
+      "id": "minecraft.prompt.001",
+      "text": "The real reason the village iron golem quit was ___.",
+      "picks": 1
+    },
+    {
+      "id": "minecraft.prompt.002",
+      "text": "I crossed three biomes just to bring home ___.",
+      "picks": 1
+    },
+    {
+      "id": "minecraft.prompt.003",
+      "text": "The wandering trader is now accepting ___ as payment.",
+      "picks": 1
+    },
+    {
+      "id": "minecraft.prompt.004",
+      "text": "My hardcore run ended because of ___.",
+      "picks": 1
+    },
+    {
+      "id": "minecraft.prompt.005",
+      "text": "The next update finally adds ___.",
+      "picks": 1
+    },
+    {
+      "id": "minecraft.prompt.006",
+      "text": "Never dig straight down while holding ___.",
+      "picks": 1
+    },
+    {
+      "id": "minecraft.prompt.007",
+      "text": "Our server has one rule: no ___ near spawn.",
+      "picks": 1
+    },
+    {
+      "id": "minecraft.prompt.008",
+      "text": "The enchanting table offered Efficiency V and ___.",
+      "picks": 1
+    },
+    {
+      "id": "minecraft.prompt.009",
+      "text": "I told the admin the lag was caused by ___.",
+      "picks": 1
+    },
+    {
+      "id": "minecraft.prompt.010",
+      "text": "The Ender Dragon was surprisingly afraid of ___.",
+      "picks": 1
+    },
+    {
+      "id": "minecraft.prompt.011",
+      "text": "Nobody expected ___ inside the woodland mansion.",
+      "picks": 1
+    },
+    {
+      "id": "minecraft.prompt.012",
+      "text": "My starter base is mostly dirt, hope, and ___.",
+      "picks": 1
+    },
+    {
+      "id": "minecraft.prompt.013",
+      "text": "The villager raised the price after seeing ___.",
+      "picks": 1
+    },
+    {
+      "id": "minecraft.prompt.014",
+      "text": "The best thing to find in a suspicious stew is ___.",
+      "picks": 1
+    },
+    {
+      "id": "minecraft.prompt.015",
+      "text": "Behind the secret painting, we discovered ___.",
+      "picks": 1
+    },
+    {
+      "id": "minecraft.prompt.016",
+      "text": "The new server mascot is ___.",
+      "picks": 1
+    },
+    {
+      "id": "minecraft.prompt.017",
+      "text": "A perfect mining trip starts with ___ and ends with ___.",
+      "picks": 2
+    },
+    {
+      "id": "minecraft.prompt.018",
+      "text": "The recipe is simple: combine ___ with ___.",
+      "picks": 2
+    },
+    {
+      "id": "minecraft.prompt.019",
+      "text": "I traded ___ for ___ and somehow lost money.",
+      "picks": 2
+    },
+    {
+      "id": "minecraft.prompt.020",
+      "text": "Forget swords. We can defeat the Wither using ___ and ___.",
+      "picks": 2
+    },
+    {
+      "id": "minecraft.prompt.021",
+      "text": "My redstone machine turns ___ into ___.",
+      "picks": 2
+    },
+    {
+      "id": "minecraft.prompt.022",
+      "text": "The villagers have replaced ___ with ___.",
+      "picks": 2
+    },
+    {
+      "id": "minecraft.prompt.023",
+      "text": "The museum exhibit is called \"___ meets ___.\"",
+      "picks": 2
+    },
+    {
+      "id": "minecraft.prompt.024",
+      "text": "The treasure map led us from ___ to ___.",
+      "picks": 2
+    },
+    {
+      "id": "minecraft.prompt.025",
+      "text": "The three things in my emergency chest are ___, ___, and ___.",
+      "picks": 3
+    },
+    {
+      "id": "minecraft.prompt.026",
+      "text": "Step one: ___. Step two: ___. Step three: profit from ___.",
+      "picks": 3
+    },
+    {
+      "id": "minecraft.prompt.027",
+      "text": "The server election promises ___, ___, and free ___.",
+      "picks": 3
+    },
+    {
+      "id": "minecraft.prompt.028",
+      "text": "Our expedition lost ___, found ___, and blamed ___.",
+      "picks": 3
+    },
+    {
+      "id": "minecraft.prompt.029",
+      "text": "The ancient prophecy warns of ___ riding ___ while carrying ___.",
+      "picks": 3
+    },
+    {
+      "id": "minecraft.prompt.030",
+      "text": "The worst possible inventory contains ___, ___, and ___.",
+      "picks": 3
+    }
+  ],
+  "answers": [
+    {
+      "id": "minecraft.answer.001",
+      "text": "A creeper with separation anxiety."
+    },
+    {
+      "id": "minecraft.answer.002",
+      "text": "Seventeen stacks of completely ordinary dirt."
+    },
+    {
+      "id": "minecraft.answer.003",
+      "text": "A suspiciously well-paid wandering trader."
+    },
+    {
+      "id": "minecraft.answer.004",
+      "text": "The one torch keeping the entire base safe."
+    },
+    {
+      "id": "minecraft.answer.005",
+      "text": "A chicken in a minecart going nowhere."
+    },
+    {
+      "id": "minecraft.answer.006",
+      "text": "An iron golem on its lunch break."
+    },
+    {
+      "id": "minecraft.answer.007",
+      "text": "A diamond hoe with a complicated backstory."
+    },
+    {
+      "id": "minecraft.answer.008",
+      "text": "A tiny house with a very large basement."
+    },
+    {
+      "id": "minecraft.answer.009",
+      "text": "Three villagers pretending they cannot see the zombie."
+    },
+    {
+      "id": "minecraft.answer.010",
+      "text": "A chest labelled \"definitely not gravel.\""
+    },
+    {
+      "id": "minecraft.answer.011",
+      "text": "An emotional support bucket of lava."
+    },
+    {
+      "id": "minecraft.answer.012",
+      "text": "The sound of somebody opening my chest."
+    },
+    {
+      "id": "minecraft.answer.013",
+      "text": "A roof made entirely of crafting tables."
+    },
+    {
+      "id": "minecraft.answer.014",
+      "text": "The last potato in the kingdom."
+    },
+    {
+      "id": "minecraft.answer.015",
+      "text": "A sheep who knows the server password."
+    },
+    {
+      "id": "minecraft.answer.016",
+      "text": "A very polite skeleton."
+    },
+    {
+      "id": "minecraft.answer.017",
+      "text": "A public apology written in redstone lamps."
+    },
+    {
+      "id": "minecraft.answer.018",
+      "text": "Forty-seven boats in a one-block pond."
+    },
+    {
+      "id": "minecraft.answer.019",
+      "text": "The dirt pillar nobody wants to remove."
+    },
+    {
+      "id": "minecraft.answer.020",
+      "text": "A map of somebody else's base."
+    },
+    {
+      "id": "minecraft.answer.021",
+      "text": "A fishing rod named \"Management.\""
+    },
+    {
+      "id": "minecraft.answer.022",
+      "text": "The world's least efficient iron farm."
+    },
+    {
+      "id": "minecraft.answer.023",
+      "text": "An enchanting room with no bookshelves."
+    },
+    {
+      "id": "minecraft.answer.024",
+      "text": "A sign that says \"temporary\" from six months ago."
+    },
+    {
+      "id": "minecraft.answer.025",
+      "text": "A tunnel dug one block too low."
+    },
+    {
+      "id": "minecraft.answer.026",
+      "text": "An enderman rearranging the landscaping."
+    },
+    {
+      "id": "minecraft.answer.027",
+      "text": "A creeper-shaped hole in the budget."
+    },
+    {
+      "id": "minecraft.answer.028",
+      "text": "A perfectly normal basement full of bees."
+    },
+    {
+      "id": "minecraft.answer.029",
+      "text": "The emergency backup emergency chest."
+    },
+    {
+      "id": "minecraft.answer.030",
+      "text": "An inventory full of seeds."
+    },
+    {
+      "id": "minecraft.answer.031",
+      "text": "A lever labelled \"probably safe.\""
+    },
+    {
+      "id": "minecraft.answer.032",
+      "text": "A dramatic speech delivered to a cow."
+    },
+    {
+      "id": "minecraft.answer.033",
+      "text": "A furnace powered by old furniture."
+    },
+    {
+      "id": "minecraft.answer.034",
+      "text": "A suspicious patch of fresh cobblestone."
+    },
+    {
+      "id": "minecraft.answer.035",
+      "text": "The server's official complaint llama."
+    },
+    {
+      "id": "minecraft.answer.036",
+      "text": "A diamond hidden in a chest of cobblestone."
+    },
+    {
+      "id": "minecraft.answer.037",
+      "text": "An unpaid internship at the slime farm."
+    },
+    {
+      "id": "minecraft.answer.038",
+      "text": "A boat that has seen too much."
+    },
+    {
+      "id": "minecraft.answer.039",
+      "text": "A librarian with unreasonable demands."
+    },
+    {
+      "id": "minecraft.answer.040",
+      "text": "The first wooden pickaxe, framed forever."
+    },
+    {
+      "id": "minecraft.answer.041",
+      "text": "A skeleton wearing my best armour."
+    },
+    {
+      "id": "minecraft.answer.042",
+      "text": "A zombie knocking on the wrong door."
+    },
+    {
+      "id": "minecraft.answer.043",
+      "text": "The least convincing secret entrance."
+    },
+    {
+      "id": "minecraft.answer.044",
+      "text": "A stack of beds in the Nether."
+    },
+    {
+      "id": "minecraft.answer.045",
+      "text": "One more chest room expansion."
+    },
+    {
+      "id": "minecraft.answer.046",
+      "text": "A parrot repeating the creeper sound."
+    },
+    {
+      "id": "minecraft.answer.047",
+      "text": "A pet fox with a criminal record."
+    },
+    {
+      "id": "minecraft.answer.048",
+      "text": "An apology cake with one slice missing."
+    },
+    {
+      "id": "minecraft.answer.049",
+      "text": "A bridge made of whatever was in my hotbar."
+    },
+    {
+      "id": "minecraft.answer.050",
+      "text": "A terrible idea with excellent lighting."
+    },
+    {
+      "id": "minecraft.answer.051",
+      "text": "A hole directly under the welcome sign."
+    },
+    {
+      "id": "minecraft.answer.052",
+      "text": "A full beacon built to improve gardening."
+    },
+    {
+      "id": "minecraft.answer.053",
+      "text": "A very expensive pile of decorative copper."
+    },
+    {
+      "id": "minecraft.answer.054",
+      "text": "A meeting that could have been a sign."
+    },
+    {
+      "id": "minecraft.answer.055",
+      "text": "The last surviving block of the starter hut."
+    },
+    {
+      "id": "minecraft.answer.056",
+      "text": "An aquarium with no glass."
+    },
+    {
+      "id": "minecraft.answer.057",
+      "text": "A minecart railway to the next room."
+    },
+    {
+      "id": "minecraft.answer.058",
+      "text": "A heroic sacrifice for two pieces of coal."
+    },
+    {
+      "id": "minecraft.answer.059",
+      "text": "An unsolicited tour of the storage system."
+    },
+    {
+      "id": "minecraft.answer.060",
+      "text": "A fence gate pretending to be a security system."
+    },
+    {
+      "id": "minecraft.answer.061",
+      "text": "A pumpkin with an important job."
+    },
+    {
+      "id": "minecraft.answer.062",
+      "text": "The sound of a pickaxe breaking at the worst moment."
+    },
+    {
+      "id": "minecraft.answer.063",
+      "text": "A tiny slime with enormous confidence."
+    },
+    {
+      "id": "minecraft.answer.064",
+      "text": "A suspiciously convenient lightning strike."
+    },
+    {
+      "id": "minecraft.answer.065",
+      "text": "A chest monster visible from space."
+    },
+    {
+      "id": "minecraft.answer.066",
+      "text": "A dragon egg nobody remembers moving."
+    },
+    {
+      "id": "minecraft.answer.067",
+      "text": "A villager reunion inside a one-block space."
+    },
+    {
+      "id": "minecraft.answer.068",
+      "text": "A bucket of tropical fish with a title deed."
+    },
+    {
+      "id": "minecraft.answer.069",
+      "text": "The wrong kind of mushroom soup."
+    },
+    {
+      "id": "minecraft.answer.070",
+      "text": "A completely unnecessary drawbridge."
+    },
+    {
+      "id": "minecraft.answer.071",
+      "text": "A tower built for the sole purpose of jumping off it."
+    },
+    {
+      "id": "minecraft.answer.072",
+      "text": "A redstone clock that never stops complaining."
+    },
+    {
+      "id": "minecraft.answer.073",
+      "text": "A snow golem facing a difficult summer."
+    },
+    {
+      "id": "minecraft.answer.074",
+      "text": "A pig who has been promoted to mayor."
+    },
+    {
+      "id": "minecraft.answer.075",
+      "text": "A horse parked on the roof."
+    },
+    {
+      "id": "minecraft.answer.076",
+      "text": "A dramatic rescue involving scaffolding."
+    },
+    {
+      "id": "minecraft.answer.077",
+      "text": "A shulker box full of other shulker boxes."
+    },
+    {
+      "id": "minecraft.answer.078",
+      "text": "A forgotten portal with an awkward destination."
+    },
+    {
+      "id": "minecraft.answer.079",
+      "text": "A cactus with a higher kill count than the dragon."
+    },
+    {
+      "id": "minecraft.answer.080",
+      "text": "A cobblestone generator with trust issues."
+    },
+    {
+      "id": "minecraft.answer.081",
+      "text": "A carrot on a stick and no plan."
+    },
+    {
+      "id": "minecraft.answer.082",
+      "text": "The world's smallest woodland mansion."
+    },
+    {
+      "id": "minecraft.answer.083",
+      "text": "A copper statue of the wrong player."
+    },
+    {
+      "id": "minecraft.answer.084",
+      "text": "A secret base marked on every map."
+    },
+    {
+      "id": "minecraft.answer.085",
+      "text": "An allay carrying the evidence."
+    },
+    {
+      "id": "minecraft.answer.086",
+      "text": "A deeply personal argument about birch wood."
+    },
+    {
+      "id": "minecraft.answer.087",
+      "text": "A warden who only wanted some quiet."
+    },
+    {
+      "id": "minecraft.answer.088",
+      "text": "A glow squid getting all the credit."
+    },
+    {
+      "id": "minecraft.answer.089",
+      "text": "A phantom expressing concern about my sleep schedule."
+    },
+    {
+      "id": "minecraft.answer.090",
+      "text": "The one block missing from the floor."
+    },
+    {
+      "id": "minecraft.answer.091",
+      "text": "An anvil falling through the meeting room."
+    },
+    {
+      "id": "minecraft.answer.092",
+      "text": "A million emeralds and nothing useful to buy."
+    },
+    {
+      "id": "minecraft.answer.093",
+      "text": "A drowned holding a performance review."
+    },
+    {
+      "id": "minecraft.answer.094",
+      "text": "A goat with extremely specific objections."
+    },
+    {
+      "id": "minecraft.answer.095",
+      "text": "A netherite helmet named \"Budget Cuts.\""
+    },
+    {
+      "id": "minecraft.answer.096",
+      "text": "A decorative pond with structural problems."
+    },
+    {
+      "id": "minecraft.answer.097",
+      "text": "An expedition funded entirely by baked potatoes."
+    },
+    {
+      "id": "minecraft.answer.098",
+      "text": "A villager trading hall with a suggestion box."
+    },
+    {
+      "id": "minecraft.answer.099",
+      "text": "An ender pearl thrown with misplaced confidence."
+    },
+    {
+      "id": "minecraft.answer.100",
+      "text": "A trial chamber full of administrative paperwork."
+    },
+    {
+      "id": "minecraft.answer.101",
+      "text": "A suspicious gravel delivery."
+    },
+    {
+      "id": "minecraft.answer.102",
+      "text": "A frog eating the security system."
+    },
+    {
+      "id": "minecraft.answer.103",
+      "text": "A camel blocking both doorways."
+    },
+    {
+      "id": "minecraft.answer.104",
+      "text": "A mangrove swamp in the living room."
+    },
+    {
+      "id": "minecraft.answer.105",
+      "text": "A sniffer with an archaeology degree."
+    },
+    {
+      "id": "minecraft.answer.106",
+      "text": "A garden designed by an enderman."
+    },
+    {
+      "id": "minecraft.answer.107",
+      "text": "A giant mushroom with planning permission."
+    },
+    {
+      "id": "minecraft.answer.108",
+      "text": "An axolotl in charge of naval operations."
+    },
+    {
+      "id": "minecraft.answer.109",
+      "text": "A composter full of yesterday's ambitions."
+    },
+    {
+      "id": "minecraft.answer.110",
+      "text": "A beacon announcing that we are lost."
+    },
+    {
+      "id": "minecraft.answer.111",
+      "text": "The emergency bell nobody can reach."
+    },
+    {
+      "id": "minecraft.answer.112",
+      "text": "A spider who has learned the floor plan."
+    },
+    {
+      "id": "minecraft.answer.113",
+      "text": "A gold farm with a very complicated returns policy."
+    },
+    {
+      "id": "minecraft.answer.114",
+      "text": "A portal built one block too narrow."
+    },
+    {
+      "id": "minecraft.answer.115",
+      "text": "A barrel of items labelled \"sort later.\""
+    },
+    {
+      "id": "minecraft.answer.116",
+      "text": "A monument to the first server crash."
+    },
+    {
+      "id": "minecraft.answer.117",
+      "text": "A suspicious lack of chickens."
+    },
+    {
+      "id": "minecraft.answer.118",
+      "text": "A secret passage into the public toilets."
+    },
+    {
+      "id": "minecraft.answer.119",
+      "text": "A perfectly timed thunderstorm."
+    },
+    {
+      "id": "minecraft.answer.120",
+      "text": "A signed book containing only \"oops.\""
+    }
+  ]
+}
